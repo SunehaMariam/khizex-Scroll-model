@@ -21,7 +21,7 @@ export function IntroSection(): JSX.Element {
 
         <div className="intro__right">
           <img
-            src="./public/images/airpods.png"
+            src="public/images/airpods.png"
             alt="AirPods Pro 2"
             className="intro__image"
           />
